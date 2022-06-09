@@ -7,4 +7,4 @@ Developpement site de présentation de la marque Scoreur et de sa future applica
  
 - HTML5, CSS3, JavaScript.
 
-Lien vers le site :
+Lien vers le site : https://100sue.github.io/Scoreur-Brand/
